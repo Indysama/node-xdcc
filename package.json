@@ -1,0 +1,19 @@
+{
+  "name": "xdcc",
+  "description": "XDCC library for node",
+  "version": "0.1",
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/indysama/node-xdcc"
+  },
+  "bugs": {
+    "mail": "indy@osakachan.net",
+    "url": "http://github.com/indysama/node-xdcc/issues"
+  },
+  "main": "lib/xdcc",
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "_from": "xdcc"
+}
