@@ -1,6 +1,6 @@
 /*  
- *  For this to run, example.js must be placed one directory higher
- *  and the library ``irc'' must be installed. (`npm install irc`)
+ *  For this to run, example.js must be moved to a directory with both 
+ *   irc and xdcc node libraries installed.
  *  
  */
 
