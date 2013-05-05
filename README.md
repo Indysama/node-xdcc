@@ -1,13 +1,13 @@
 #Node.js XDCC library
 requires Node.js IRC library. (`npm install irc`)
- 
+
 IRC library for downloading files from XDCC bots.
 
 ##Usage
 
 ```xdcc.request(client, args);```
 
-####Requests an XDCC from `{client}` pack based on `{args}`
+####Requests an XDCC from `{client}` based on `{args}`
 
 `{client}` IRC client (from IRC library)
 `{args}` Information about the XDCC pack
