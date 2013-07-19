@@ -1,7 +1,7 @@
 {
   "name": "xdcc",
   "description": "XDCC library for node",
-  "version": "0.1",
+  "version": "0.1.0",
   "contributors": [],
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "engines": {
     "node": ">=0.4.0"
   },
-  "_from": "xdcc"
+  "_from": "xdcc",
+  "dependencies": {
+    "irc": "0.3.6"
+  }
 }
