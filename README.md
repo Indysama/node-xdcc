@@ -55,7 +55,7 @@ Emitted when an XDCC transfer encounters an error
  
 ##Listeners
     client.emit('xdcc-cancel', nick);
-When emitted, all XDCC transfers to `{nick}` are cancelled.
+When emitted, all XDCC transfers from `{nick}` are cancelled.
 
 `{nick}`      nick to cancel XDCC transfers from
 
